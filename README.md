@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devik Raghuvanshi</h1>
 <h3 align="center">📱 App & Web Dev Enthusiast | 🤖 Passionate about Generative AI & Emerging AI Technologies | 🎓 Undergraduate at BITS Pilani, Pilani Campus, India</h3>
 
-- 🔭 I’m currently working on **Simple Web Browser using C++**
+- 🔭 I’m currently working on **Small scaled Virtual AI Assistant in Python**
 
 - 🌱 I’m currently learning **Generative AI, React JS and Data Structures and Algorithms in C++,**
 

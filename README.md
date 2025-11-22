@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devik Raghuvanshi</h1>
-<h3 align="center">📱 App & Web Dev Enthusiast | 🤖 Passionate about Generative AI & Emerging AI Technologies | 🎓 Undergraduate at BITS Pilani, Pilani Campus, India</h3>
+<h3 align="center">📱 AI Automation Enthusiast | 🤖 Passionate about Generative AI & Emerging AI Technologies | 🎓 Undergraduate at BITS Pilani, Pilani Campus, India</h3>
 
-- 🔭 I’m currently working on **Eliza based AI Agents**
+- 🔭 I’m currently working on **N8N Automations**
 
-- 🌱 I’m currently learning **AI Agents, React Native and Data Structures and Algorithms in C++,**
+- 🌱 I’m currently learning **AI Automation and Data Structures and Algorithms in C++,**
 
 - 💬 Ask me about **using emerging AI technologies to solve real world problems**
 

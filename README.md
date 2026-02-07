@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devik Raghuvanshi</h1>
-<h3 align="center">📱 AI Automation Enthusiast | 🤖 Passionate about Generative AI & Emerging AI Technologies | 🎓 Undergraduate at BITS Pilani, Pilani Campus, India</h3>
+<h3 align="center">🎓 Undergraduate at BITS Pilani, Pilani Campus, India</h3>
 
-- 🔭 I’m currently working on **N8N Automations**
+- 🔭 I’m currently working on **N8N MCP Server**
 
-- 🌱 I’m currently learning **AI Automation and Data Structures and Algorithms in C++,**
-
-- 💬 Ask me about **using emerging AI technologies to solve real world problems**
+- 🌱 I’m currently learning **AI Automations**
 
 - 📫 How to reach me **devir16052004@gmail.com**
 
